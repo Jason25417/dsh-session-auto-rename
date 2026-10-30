@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Auto-rename",
+    "description": "Adds Auto-rename to the sidebar Session menu and its right-click menu: the model names a Session from its log, weighting recent messages higher."
+  }
+}

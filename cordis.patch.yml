@@ -1,0 +1,3 @@
+- insert:
+    - id: session-auto-rename
+      name: '@jason25417/dsh-session-auto-rename'
