@@ -18,7 +18,7 @@
  * and no JSX transform is available, so elements are built with h().
  */
 window.__ModuleLoader__.load({
-  id: 'dsh-session-auto-rename',
+  id: '@jason25417/dsh-session-auto-rename',
   factory(require) {
     const React = require('react');
     const h = React.createElement;

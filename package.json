@@ -1,6 +1,6 @@
 {
   "name": "@jason25417/dsh-session-auto-rename",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "license": "MIT",
   "description": "Sidebar Session menu: LLM auto-rename weighted toward recent messages, plus a right-click menu on Session rows. · 侧栏会话菜单：LLM 自动重命名（越新的消息权重越高），并支持右键会话呼出菜单。",
